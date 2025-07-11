@@ -1,2 +1,1 @@
-# customizable-cube-site
-A responsive, interactive 3D web cube. Navigate four unique faces, each for custom content. Showcase interfaces/info in an engaging 3D experience. Supports keyboard arrows, mouse drag, and touch swipe for rotation, plus a mini navigator cube.
+This repo presents a responsive, interactive 3D cube web app. Users navigate four unique faces, each designed for custom content. It's a versatile platform for showcasing various interfaces or info sections within a single, engaging 3D experience. The cube supports both keyboard arrows and intuitive mouse drag/touch swipe gestures for rotation, plus a mini navigator cube for orientation.
